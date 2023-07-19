@@ -25,7 +25,7 @@ public class Inferencia {
 		// Dentro de uma variavel não é possivel definir valores diferente.
 		// Por exemplo: var c = "Texto";
 		// var = 4.5;
-		// Esse codigo não sera executa pois já definir "var" como varialvel tipo string.
+		// Esse codigo não sera executa pois já definiu "var" como varialvel tipo string.
 
 				
 		
