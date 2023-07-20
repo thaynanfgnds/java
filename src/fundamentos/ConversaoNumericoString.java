@@ -9,7 +9,7 @@ public class ConversaoNumericoString {
 		int num2 = 10000;
 		System.out.println(Integer.toString(num2).length());
 
-		
+		// Também pode-se converter concatenando com string vazia.
 		System.out.println("" + num1);
 		System.out.println("" + num2);
 	}
