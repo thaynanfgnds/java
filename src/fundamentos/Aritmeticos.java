@@ -21,7 +21,7 @@ public class Aritmeticos {
 		System.out.println(a - b);
 		System.out.println(a * b);
 		System.out.println(a / b);
-		// é possivel também mesmo com uma valor inteiro realizar uma CAST e dar um resultado quebrado.
+		// É possivel também mesmo com uma valor inteiro realizar uma CAST e dar um resultado quebrado.
 		System.out.println(a / (double) b);
 		System.out.println(a / (float) b);
 		
