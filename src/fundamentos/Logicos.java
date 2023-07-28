@@ -38,8 +38,5 @@ public class Logicos {
 		System.out.println("\nTabela verdade NOT");
 		System.out.println(!true); 
 		System.out.println(!false);
-		System.out.println(!!true);
-		System.out.println(!!false);
-		
 	} 
 }
